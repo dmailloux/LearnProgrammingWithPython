@@ -261,12 +261,41 @@ Now run `chef.py` and see what happens.
 
 ## Homework
 
-Using what you now know, create a new program that will
+### Add Two Numbers
 
-1. prompt a user for a number
+Using what you've learned, create a new program called `addtwo.py` that will
+
+1. prompt the user for a number
 2. then once the user has entered that number, prompt them for another number
 3. add those two numbers together and write the result to the terminal
+
+#### Expected Behavior
+
+Enter a number: 5
+
+Enter another number: 10
+
+15
 
 Did something unexpected happen? Why? Review the material in this lesson if you get stuck.
 
 The sample programs can be found under the `Examples` folder up above.
+
+### Volume of a Cube
+
+Write a program called `cubevolume.py` that will
+
+1. prompt the user for the length of the cube
+2. prompt the user for the width of the cube
+3. prompt the user for the height of the cube
+4. print the volume of the cube
+
+#### Expected Behavior
+
+Enter the length of the cube: 6.1
+
+Enter the width of the cube: 2.3
+
+Enter the height of the cube 5
+
+70.14999999999999
