@@ -2,6 +2,10 @@
 
 This tutorial is going to assume you are using Windows 10 because it is originally written for my friend and he uses Windows 10 :)
 
+## How To Use This Guide
+
+You will get the most out of this guide if you follow along while you read. Use the Python interactive terminal as you go through the material, and write programs where instructed. Do the homework! Programming is a craft and you will not improve by thinking about it. You must do.
+
 ## Install Python
 
 First thing's first, go [download Python](https://www.python.org/downloads/).
