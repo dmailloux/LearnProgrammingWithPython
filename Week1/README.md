@@ -126,6 +126,34 @@ Now we are going to learn about variables. They are the first step on the road t
 8
 ```
 
+### Assignment
+
+In Python, `=` is the assignment operator.
+
+```python
+>>> a = 3
+>>> a
+3
+>>> b = 4 + 1
+>>> b
+5
+>>> a = b + a
+>>> a
+8
+```
+
+It assigns the value of the expression on its right, to whatever variable is on its left. The expression on the right can even contain the variable on the left. A common use case for this is incrementing a variable.
+
+```python
+>>> i = 0
+>>> i = i + 1
+>>> i
+1
+>>> i = i + 1
+>>> i
+2
+```
+
 ### Types
 
 In order to understand how to perform operations on different variables, programming languages have the concept of _types_.
