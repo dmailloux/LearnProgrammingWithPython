@@ -1,4 +1,4 @@
-# Week 1: Terminal Basics and Python Expressions
+# Lesson 1: Terminal Basics and Python Expressions
 
 Before we get started, note that we will be using the words "folder" and "directory" interchangeably. Same with "terminal" and "PowerShell".
 

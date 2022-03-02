@@ -52,4 +52,4 @@ We are also going to [download VS Code](https://code.visualstudio.com/).
 
 Once it is downloaded, run the installer. It should be fairly straightforward. If the installer prompts you to, I recommend registering VS Code as your default editor for basically everything, and enabling "Open with VS Code" on right click for both files and directories.
 
-You have now installed Python and VS Code and are ready to continue to Week 1's lesson. It can be found in the Week1 folder above.
+You have now installed Python and VS Code and are ready to continue to Lesson 1. It can be found in the Lesson1 folder above.
