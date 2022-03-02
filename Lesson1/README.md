@@ -259,7 +259,7 @@ print("Hello " + name + ". Here is your " + favourite_food + ".")
 
 Now run `chef.py` and see what happens.
 
-## Assignment
+## Homework
 
 Using what you now know, create a new program that will
 
