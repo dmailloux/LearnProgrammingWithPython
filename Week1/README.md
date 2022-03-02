@@ -136,12 +136,36 @@ In short, types affect how expressions are evaluated.
 
 Below is a table of the basic types in Python, along with an example value
 
-| Value | Type   | Example Expression       |
-| ----- | ------ | ------------------------ |
-| 1     | int    | 1 + 1 = 2                |
-| 1.0   | float  | 1.0 + 1.0 = 2.0          |
-| "one" | string | "one" + "one" = "oneone" |
-| "1"   | string | "1" + "1" = "11"         |
+| Value              | Type  | Example Expression          |
+| ------------------ | ----- | --------------------------- |
+| 1                  | int   | 1 + 1 = 2                   |
+| 1.0                | float | 1.0 + 1.0 = 2.0             |
+| "one"              | str   | "one" + "one" = "oneone"    |
+| "1"                | str   | "1" + "1" = "11"            |
+| True, False        | bool  | 1 > 2 = False               |
+| [2, "hello", True] | list  | len([1, "hello", True]) = 3 |
+
+#### **int (Integer)**
+
+Integers are simple numbers without a decimal component. Nothing to write home about here. You can't divide by 0.
+
+#### **float (Floating Point Number)**
+
+Floats are like integers but with a decimal component. These are probably most like how you think about numbers in your life after grade school. You can't divide by 0.0.
+
+#### **str (String)**
+
+Strings in Python are any sequence of characters, including numbers, enclosed in single quotes or double quotes. `""` and `''` can be used interchangeably, there is no difference. "Hello" means the exact same thing to Python as 'Hello'.
+
+#### **bool (Boolean)**
+
+Booleans are either `True` or `False`. Simple concept, but very powerful in practice. We will go more into this later.
+
+#### **list (List)**
+
+Lists are an ordered collection of values of any type, usually all of the same type, but not always. Lists are declared by placing your values inside of these brackets `[]`. Like booleans, they may seem simple at a glance but they enable some of the really powerful magic of programming. We'll dig way more into these later on.
+
+These are not all the types in Python, but using these types you can write pretty much any program that is possible to write.
 
 ### Casting
 
