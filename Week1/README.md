@@ -221,7 +221,7 @@ You should see `Hello, world!` output to the terminal. You have run your first P
 
 ### Chef
 
-Now create a new file called `chef.py`, and in it, paste the following code.
+Now create a new file called `chef.py`, and in it, write the following code.
 
 ```python
 name = input("What is your name: ")
