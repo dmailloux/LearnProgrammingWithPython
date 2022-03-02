@@ -18,7 +18,7 @@ If you already have PowerShell running, close it. That's important - seriously.
 
 From the Start menu, search for and open Windows PowerShell. You will see something like:
 
-```powershell
+```
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
 
@@ -29,13 +29,13 @@ PS C:\Users\username>_
 
 Enter the following
 
-```powershell
+```
 python --version
 ```
 
 You should see something like this
 
-```powershell
+```
 PS C:\Users\D\username> python --version
 Python 3.10.2
 ```

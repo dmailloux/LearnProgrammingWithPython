@@ -6,7 +6,7 @@ Before we get started, note that we will be using the words "folder" and "direct
 
 From the Start menu, search for and open Windows PowerShell. You will see something like:
 
-```powershell
+```
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
 
@@ -17,13 +17,13 @@ PS C:\Users\username>_
 
 Now, type
 
-```powershell
+```
 cd ~/Documents
 ```
 
 You will now see
 
-```powershell
+```
 PS C:\Users\username\Documents>
 ```
 
@@ -32,7 +32,7 @@ Putting it all together, `cd ~/Documents` means "change directory to `home/Docum
 
 You can see what files and directories are in in the current directory by typing
 
-```powershell
+```
 ls
 ```
 
@@ -49,7 +49,7 @@ For now, all we care about is what is under the Name heading. These are the name
 
 Now type
 
-```powershell
+```
 mkdir learnPython
 ```
 
@@ -65,7 +65,7 @@ mkdir learnPython
 
 Now type to change into your newly created directory.
 
-```powershell
+```
 cd learnPython
 ```
 
@@ -77,13 +77,13 @@ You are now in your learnPython directory. Keep this folder around, we are going
 
 Open up PowerShell if you don't already have it open and enter
 
-```powershell
+```
 python
 ```
 
 You should see something like this
 
-```powershell
+```python
 Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> _
@@ -91,7 +91,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 This is the Python interactive terminal. You can run Python commands one line at a time as shown below. Try it for yourself.
 
-```powershell
+```python
 >>> 2 + 2
 4
 >>> 5 * 5 * -1
@@ -110,7 +110,7 @@ You can see it follows those basic rules of BEDMAS from grade school. It wouldn'
 
 Now we are going to learn about variables. They are the first step on the road to writing any kind of useful program.
 
-```powershell
+```python
 >>> a = 2
 >>> a
 2
@@ -189,7 +189,7 @@ Open up PowerShell and `cd` to your `~/Documents/learnPython` folder.
 
 Now enter
 
-```powershell
+```
 python helloworld.py
 ```
 
