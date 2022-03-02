@@ -1,4 +1,4 @@
-# Week 1 Terminal Basics and Python Expressions
+# Week 1: Terminal Basics and Python Expressions
 
 Before we get started, note that we will be using the words "folder" and "directory" interchangeably. Same with "terminal" and "PowerShell".
 
@@ -231,10 +231,14 @@ print("Hello " + name + ". Here is your " + favourite_food + ".")
 
 Now run `chef.py` and see what happens.
 
-## Homework
+## Assignment
 
-Using what you now know, create a new program that will prompt a user for a number, then once the user has entered that number, prompts them for another number, adds them together and writes the result to the terminal.
+Using what you now know, create a new program that will
 
-Did something unexpected happen? Why? Review the material in this lesson and you will find the answer.
+1. prompt a user for a number
+2. then once the user has entered that number, prompt them for another number
+3. add those two numbers together and write the result to the terminal
+
+Did something unexpected happen? Why? Review the material in this lesson if you get stuck.
 
 The sample programs can be found under the `Examples` folder up above.
